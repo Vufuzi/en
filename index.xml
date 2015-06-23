@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vufuzi</title>
-    <link>http://localhost:1313/</link>
+    <link>http://vufuzi.com:1313/</link>
     <description>Recent content on Vufuzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 22 Jun 2015 23:54:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://vufuzi.com:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://vufuzi.com:1313/contact/</link>
       <pubDate>Mon, 22 Jun 2015 23:54:04 +0200</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://vufuzi.com:1313/contact/</guid>
       <description>
 
 &lt;p&gt;The most efficient way to contact us if thorugh e-mail at &lt;a href=&#34;info@vufuzi.se&#34;&gt;info@vufuzi.se&lt;/a&gt;.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Pricing</title>
-      <link>http://localhost:1313/pricing/</link>
+      <link>http://vufuzi.com:1313/pricing/</link>
       <pubDate>Mon, 22 Jun 2015 23:54:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/pricing/</guid>
+      <guid>http://vufuzi.com:1313/pricing/</guid>
       <description>
 
 &lt;h2 id=&#34;web-and-app-development:0120fabe74c55d02d54239cee6e78332&#34;&gt;Web and App Development&lt;/h2&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://vufuzi.com:1313/services/</link>
       <pubDate>Mon, 22 Jun 2015 23:53:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/services/</guid>
+      <guid>http://vufuzi.com:1313/services/</guid>
       <description>
 
 &lt;h2 id=&#34;web-development:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Web Development&lt;/h2&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>Vufuzi</title>
-      <link>http://localhost:1313/home/</link>
+      <link>http://vufuzi.com:1313/home/</link>
       <pubDate>Mon, 22 Jun 2015 23:51:31 +0200</pubDate>
       
-      <guid>http://localhost:1313/home/</guid>
+      <guid>http://vufuzi.com:1313/home/</guid>
       <description>&lt;p&gt;We´re a creative company from western Värmland wich offers services in web development. We create, host and maintain your website, blog, app and e-commerce site.&lt;/p&gt;
 
 &lt;p&gt;We work with the latest technologies in web development and web design to deliver a good product that stands up over time. When you do business with us, you need not worry about anything regarding the website when we are finished making it. We make sure to keep your code up to date and modern so your site always remains fresh and continues to work for a long time.&lt;/p&gt;
